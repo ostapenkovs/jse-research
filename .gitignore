@@ -1,0 +1,8 @@
+.vscode
+
+__pycache__
+
+.DS_Store
+._DS_Store
+
+secret.py
