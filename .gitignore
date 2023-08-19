@@ -6,3 +6,5 @@ __pycache__
 ._DS_Store
 
 secret.py
+
+temp/*
